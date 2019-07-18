@@ -11,5 +11,6 @@ print(c == d) # True
 print(c is d) # False
 
 
+print(d.get('a')) # 1
 
-
+print(d.get('c')) # 3
